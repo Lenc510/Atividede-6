@@ -10,7 +10,7 @@ body {
 /* Cabeçalho com logo e título */
 img[alt="Logo da Loja"] {
     display: block;
-    margin: 20px auto 10px auto;
+    margin: 50px auto 20px auto;
 }
 
 h1 {
